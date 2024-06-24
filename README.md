@@ -39,4 +39,4 @@ Execute o container
 
 Link da imagem no docker hub
 
-`gustavosvalentim/fullcycle-desafio-go`
+`gustavosvalentim/fc-desafio-go`
